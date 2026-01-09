@@ -1,5 +1,8 @@
-# 💫 About Me:
-Hi, I’m Md Raziur Rahman — a software engineer passionate about building clean, scalable web applications. I work with Python, ASP.NET Web API, and React, and I enjoy turning ideas into reliable, user-friendly solutions.
+# 👋 Hi, I’m Md Raziur Rahman, a software engineer passionate about building clean, scalable, and user-centric web applications. I specialize in Python, ASP.NET Web API, and React, with hands-on experience across the full Software Development Life Cycle (SDLC).
+
+I enjoy transforming ideas into reliable, high-performance solutions by combining strong backend architecture with modern frontend experiences. With 3+ years of development experience and 5+ years in QA, I bring a quality-driven mindset, attention to detail, and a strong focus on maintainability and performance.
+
+I’m always eager to learn new technologies, solve complex problems, and contribute to impactful projects that deliver real value.
 
 
 ## 🌐 Socials:
