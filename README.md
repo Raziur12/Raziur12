@@ -4,7 +4,7 @@ I began my professional career with 5+ years of experience in the mobile manufac
 
 In 2022, I transitioned into the tech industry as an AI & Machine Learning Programmer, gaining hands-on experience in data analysis, machine learning models, and intelligent systems. This shift marked my move from ensuring product quality to building intelligent software solutions.
 
-Today, I work as a Full-Stack Developer, combining my background in QA, AI/ML, and modern web technologies such as Python, ASP.NET Web API, and React to build scalable, high-performance, and user-centric applications.
+Now, I work as a Full-Stack Developer, combining my background in QA, AI/ML, and modern web technologies such as Python, ASP.NET Web API, and React to build scalable, high-performance, and user-centric applications.
 
 I’m passionate about clean architecture, smart systems, and transforming ideas into reliable digital products that make an impact.
 
